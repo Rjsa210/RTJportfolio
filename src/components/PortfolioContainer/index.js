@@ -8,6 +8,7 @@ import "./style.css"
 function PortfolioContainer() {
   return (
     <div className="container-lg project-box">
+      <p> this is visible on PortfolioContainer </p>
       <div className="row">
 
         <div className="col-12 col-md-6 text-center project-column">
