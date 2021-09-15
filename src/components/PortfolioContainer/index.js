@@ -8,7 +8,7 @@ import "./style.css"
 function PortfolioContainer() {
   return (
     <div className="container-lg project-box">
-      <p> this is visible on PortfolioContainer </p>
+      <p> this is visible on PortfolioContainer</p>
       <div className="row">
 
         <div className="col-12 col-md-6 text-center project-column">
@@ -29,11 +29,6 @@ function PortfolioContainer() {
           <ProjectItem img={farmDirect} name={"Farm Direct"} tech={"Mongo DB, Node JS, Express, React"}>
           </ProjectItem>
         </div>
-
-        {/* <div className="col-12 col-md-6 text-center project-column">
-          <ProjectItem img={cookNtrl}>
-          </ProjectItem>
-        </div> */}
 
       </div>
     </div>
