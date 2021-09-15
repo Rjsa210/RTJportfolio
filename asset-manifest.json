@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/rtjportfolio/static/css/main.a617e044.chunk.css",
-    "main.js": "/rtjportfolio/static/js/main.15fbc390.chunk.js",
-    "main.js.map": "/rtjportfolio/static/js/main.15fbc390.chunk.js.map",
-    "runtime-main.js": "/rtjportfolio/static/js/runtime-main.823ee408.js",
-    "runtime-main.js.map": "/rtjportfolio/static/js/runtime-main.823ee408.js.map",
-    "static/js/2.7201ba5c.chunk.js": "/rtjportfolio/static/js/2.7201ba5c.chunk.js",
-    "static/js/2.7201ba5c.chunk.js.map": "/rtjportfolio/static/js/2.7201ba5c.chunk.js.map",
-    "static/js/3.9578487b.chunk.js": "/rtjportfolio/static/js/3.9578487b.chunk.js",
-    "static/js/3.9578487b.chunk.js.map": "/rtjportfolio/static/js/3.9578487b.chunk.js.map",
+    "main.css": "/rtjportfolio/static/css/main.10537611.chunk.css",
+    "main.js": "/rtjportfolio/static/js/main.754e2a20.chunk.js",
+    "main.js.map": "/rtjportfolio/static/js/main.754e2a20.chunk.js.map",
+    "runtime-main.js": "/rtjportfolio/static/js/runtime-main.6da5a770.js",
+    "runtime-main.js.map": "/rtjportfolio/static/js/runtime-main.6da5a770.js.map",
+    "static/css/2.f2512455.chunk.css": "/rtjportfolio/static/css/2.f2512455.chunk.css",
+    "static/js/2.8eac9dfe.chunk.js": "/rtjportfolio/static/js/2.8eac9dfe.chunk.js",
+    "static/js/2.8eac9dfe.chunk.js.map": "/rtjportfolio/static/js/2.8eac9dfe.chunk.js.map",
     "index.html": "/rtjportfolio/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/rtjportfolio/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.7201ba5c.chunk.js.LICENSE.txt": "/rtjportfolio/static/js/2.7201ba5c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/rtjportfolio/static/media/logo.6ce24c58.svg"
+    "static/css/2.f2512455.chunk.css.map": "/rtjportfolio/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.10537611.chunk.css.map": "/rtjportfolio/static/css/main.10537611.chunk.css.map",
+    "static/js/2.8eac9dfe.chunk.js.LICENSE.txt": "/rtjportfolio/static/js/2.8eac9dfe.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/rtjportfolio/static/media/CrystalCrag.dbfa2280.jpg",
+    "static/media/RJRESUME.13f60555.pdf": "/rtjportfolio/static/media/RJRESUME.13f60555.pdf",
+    "static/media/cooking-natural.f53a7aa0.jpg": "/rtjportfolio/static/media/cooking-natural.f53a7aa0.jpg",
+    "static/media/farm-direct.cf62272e.jpg": "/rtjportfolio/static/media/farm-direct.cf62272e.jpg",
+    "static/media/headshot.551d58dc.jpg": "/rtjportfolio/static/media/headshot.551d58dc.jpg",
+    "static/media/podcast-junkie.ce828bb9.jpg": "/rtjportfolio/static/media/podcast-junkie.ce828bb9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.823ee408.js",
-    "static/js/2.7201ba5c.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.15fbc390.chunk.js"
+    "static/js/runtime-main.6da5a770.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.8eac9dfe.chunk.js",
+    "static/css/main.10537611.chunk.css",
+    "static/js/main.754e2a20.chunk.js"
   ]
 }
