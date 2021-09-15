@@ -18,7 +18,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-md navbar-dark transparent">
       <div className="container-fluid">
-        <a className="navbar-brand" href="/Home">Reid Johnson Design</a>
+        <p className="navbar-brand">Reid Johnson Design</p>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation" onClick={() => setToggle(toggle => !toggle)}>
           <span className="navbar-toggler-icon"></span>
         </button>
