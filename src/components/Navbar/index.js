@@ -30,7 +30,7 @@ function Navbar() {
               </Link>
             </a> */}
 
-            <Link to="/Home" className={window.location.pathname === "/Home" ? "nav-link active" : "nav-link"}>
+            <Link to="/" className={window.location.pathname === "/Home" ? "nav-link active" : "nav-link"}>
               Home
             </Link>
 
