@@ -4,7 +4,7 @@ import "./style.css";
 
 function ProjectItem(props) {
   return (
-    <div className="container project-box">
+    <div className="container">
       <div className="row">
         <div className="col">
           <figure>

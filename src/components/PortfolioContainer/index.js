@@ -11,15 +11,13 @@ function PortfolioContainer() {
       <div className="row">
 
         <div className="col-12 col-md-6 text-center project-column">
-          <p>test</p>
-          {/* <ProjectItem img={cookNtrl} name={"Cooking Natural"} tech={"HTML, CSS, Javascript, NodeJS"}>
-          </ProjectItem> */}
+          <ProjectItem img={cookNtrl} name={"Cooking Natural"} tech={"HTML, CSS, Javascript, NodeJS"}>
+          </ProjectItem>
         </div>
 
         <div className="col-12 col-md-6 text-center project-column">
-          <p>test</p>
-          {/* <ProjectItem img={podcast} name={"Podcast Junkie"} tech={"HTML, CSS, Javascript, Express, Node, Handlebars.js"}>
-          </ProjectItem> */}
+          <ProjectItem img={podcast} name={"Podcast Junkie"} tech={"HTML, CSS, Javascript, Express, Node, Handlebars.js"}>
+          </ProjectItem>
         </div>
 
       </div>
@@ -27,9 +25,8 @@ function PortfolioContainer() {
       <div className="row">
 
         <div className="col-12 col-md-6 text-center project-column">
-          <p>test</p>
-          {/* <ProjectItem img={farmDirect} name={"Farm Direct"} tech={"Mongo DB, Node JS, Express, React"}>
-          </ProjectItem> */}
+          <ProjectItem img={farmDirect} name={"Farm Direct"} tech={"Mongo DB, Node JS, Express, React"}>
+          </ProjectItem>
         </div>
 
       </div>
