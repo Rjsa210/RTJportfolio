@@ -8,7 +8,7 @@ import "./style.css"
 function PortfolioContainer() {
   return (
     <div className="container-lg project-box">
-      {/* <div className="row">
+      <div className="row">
 
         <div className="col-12 col-md-6 text-center project-column">
           <ProjectItem img={cookNtrl} name={"Cooking Natural"} tech={"HTML, CSS, Javascript, NodeJS"}>
@@ -29,7 +29,7 @@ function PortfolioContainer() {
           </ProjectItem>
         </div>
 
-      </div> */}
+      </div>
     </div>
   )
 }
