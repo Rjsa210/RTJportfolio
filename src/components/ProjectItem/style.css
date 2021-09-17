@@ -1,15 +1,10 @@
-/* .project-box {
+/* 
+.project-box {
   background-color: #353535;
-  opacity:.75;
-  height: 300px;
-  
+  opacity: 75%;
   padding-top: 40px;
-  padding-right: 0px;
-  border-radius: 100px;
-  margin: 20px 200px 20px 200px;
-  
-  
-
+  padding-bottom: 40px;
+  border-radius: 50px;
 } */
 
 .project-thumbnail {
