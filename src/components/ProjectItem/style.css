@@ -21,7 +21,8 @@
 
 }
 
-.technologies {
+.technologies, 
+.description {
   color: #cccccc;
   font-weight: 300;
 }
