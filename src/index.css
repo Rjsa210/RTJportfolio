@@ -24,19 +24,24 @@ body {
   background-repeat: no-repeat;
   /* min-height: 100vh; */
   /* background-size: 100%; */
-  /* backdrop-filter: blur(2px) grayscale(100%) brightness(50%); */
+  backdrop-filter: blur(2px) grayscale(100%) brightness(50%);
   /* display: flex; */
   /* flex-direction: column; */
 }
 
 .background-filter {
-  backdrop-filter: blur(2px) grayscale(100%) brightness(50%);
+  /* backdrop-filter: blur(2px) grayscale(100%) brightness(50%); */
   min-height: 100vh;
+  margin-bottom: -30px;
   
 }
 
 .text-is-brightness {
   color: #e6dbba;
+}
+
+.push{
+  height: 30px;
 }
 
 

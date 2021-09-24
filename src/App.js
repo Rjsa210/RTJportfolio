@@ -60,6 +60,7 @@ function App() {
 
         </div>
       </div>
+      <div className="push" />
       <Footer />
 
     </HashRouter>
