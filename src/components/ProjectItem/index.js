@@ -8,7 +8,7 @@ function ProjectItem(props) {
       <div className="row">
         <div className="col">
           <figure>
-            <a href={props.url}><img src={props.img} alt={props.name} className="project-thumbnail" /></a>
+            <a target="_blank" href={props.url}><img src={props.img} alt={props.name} className="project-thumbnail" /></a>
 
 
           </figure>
